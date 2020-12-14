@@ -42,11 +42,11 @@ My apologies, it has come to my attention that there was a mistake in the posted
     </tr>
     <tr>
       <td class="gt_row gt_left">4</td>
-      <td class="gt_row gt_left">File structure followed exactly as describe in class.</td>
+      <td class="gt_row gt_left">File structure followed exactly as described in class.</td>
     </tr>
     <tr>
       <td class="gt_row gt_left">5</td>
-      <td class="gt_row gt_left">File structure followed exactly as describe in class, or a better approach suggested</td>
+      <td class="gt_row gt_left">File structure followed exactly as described in class, or a better approach suggested</td>
     </tr>
     <tr class="gt_group_heading_row">
       <td colspan="2" class="gt_group_heading">2. Coding style</td>
